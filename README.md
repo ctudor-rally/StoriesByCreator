@@ -8,4 +8,4 @@ http://screencast.com/t/6QPEWBMQVM
 
 If you want to grab the App and try it you can find it [here] (https://github.com/ctudor-rally/StoriesByCreator/blob/master/deploy/App.html).
 
-![Alt text](https://github.com/ctudor-rally/StoriesByCreator/blob/master/deploy/ScreenShot.png)
+![Alt text](https://raw.github.com/ctudor-rally/StoriesByCreator/master/deploy/ScreenShot.png)
